@@ -16,10 +16,11 @@ Estudante de **Ciência da Computação no CEUB**, no 8º semestre, em Brasília
 
 - Fundamentos de programação e desenvolvimento web, com contato inicial com Python, JavaScript, HTML e CSS.
 - Organização e documentação de projetos com Git e GitHub.
-- Noções de aplicações web e bancos de dados a partir dos projetos da graduação. Flask, SQLAlchemy e MySQL fazem parte desse aprendizado.
+- Noções iniciais de banco de dados, em aprendizado nas atividades da graduação.
 
-As tecnologias citadas representam meu contato em estudos e projetos. Estou desenvolvendo meus conhecimentos e ganhando prática.
+Estou construindo minha base técnica por meio dos estudos e da participação em projetos acadêmicos.
 
 ## Objetivo profissional
 
 Busco uma oportunidade de estágio em desenvolvimento de software para aprender com uma equipe, aplicar os conhecimentos da graduação e contribuir para projetos reais.
+
