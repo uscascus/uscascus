@@ -1,6 +1,6 @@
 # Olá, sou o Lucas
 
-Estudante de **Ciência da Computação no CEUB**, no 8º semestre, em Brasília. Estou em início de carreira e uso este espaço para organizar meus estudos, compartilhar projetos e acompanhar meu aprendizado. Tenho interesse em **back-end e segurança da informação**.
+Estudante de **Ciência da Computação**, no 8º semestre. Estou em início de carreira e uso este espaço para organizar meus estudos, compartilhar projetos e acompanhar meu aprendizado. Tenho interesse em **back-end e segurança da informação**.
 
 [Portfólio](https://uscascus.github.io/Study-Hub-TI/) · [LinkedIn](https://www.linkedin.com/in/lucas-coutinho-chaul-27a139268/) · [Contato](mailto:lucascoutinhoc.contato@gmail.com)
 
