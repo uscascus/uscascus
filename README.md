@@ -2,14 +2,12 @@
 
 Estudante de **Ciência da Computação**, no 8º semestre. Estou em início de carreira e uso este espaço para organizar meus estudos, compartilhar projetos e acompanhar meu aprendizado. Tenho interesse em **back-end e segurança da informação**.
 
-[Portfólio](https://uscascus.github.io/Study-Hub-TI/) · [LinkedIn](https://www.linkedin.com/in/lucas-coutinho-chaul-27a139268/) · [Contato](mailto:lucascoutinhoc.contato@gmail.com)
+[Contato](mailto:lucascoutinhoc.contato@gmail.com)
 
 ## Projetos em destaque
 
 | Projeto | O que você encontra |
 | --- | --- |
-| [Study Hub TI](https://github.com/uscascus/Study-Hub-TI) | Portfólio acadêmico com atividades, projetos e materiais do curso. [Acessar o site](https://uscascus.github.io/Study-Hub-TI/). |
-| [Planejador de estudos](https://uscascus.github.io/Study-Hub-TI/projetos/planejador/) | Aplicação para criar, concluir e filtrar tarefas, com dados salvos no navegador. |
 | [CondoIQ](https://github.com/uscascus/CondoIQ) | Projeto de gestão condominial em que participei, com perfis de síndico e morador, comunicados e reclamações. |
 
 ## Aprendizado atual
